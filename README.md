@@ -27,4 +27,4 @@
  
 ## 🤝 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cjscoding/)](https://velog.io/@cjscoding/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:recruitcjs@gmail.com)](mailto:recruitcjs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjscoding1997@gmail.com)](mailto:cjscoding1997@gmail.com)
